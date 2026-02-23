@@ -111,3 +111,4 @@ link.onclick = function () {
     switchToLogin();
 }
 
+console.log('end of file');
