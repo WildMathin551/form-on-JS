@@ -112,3 +112,4 @@ link.onclick = function () {
 }
 
 console.log('end of file');
+console.log('new changes -_-');
