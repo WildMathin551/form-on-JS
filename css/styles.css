@@ -135,6 +135,7 @@ label {
 
 .decoration img {
     margin-left: 11px;
+    border: 2px solid blue;
 }
 
 
