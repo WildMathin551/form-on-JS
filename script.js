@@ -113,3 +113,5 @@ link.onclick = function () {
 
 console.log('end of file');
 console.log('new changes -_-');
+
+console.log('13 point');
